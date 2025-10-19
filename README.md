@@ -1,11 +1,15 @@
 # TCGAPI
 
-## Infra
+## Models
 
-## Gateway
+## Repositories
 
-## Services
+### [Infra](https://github.com/nicolaszordan/tcgapi-infra)
 
-### Lorcana
+### [Gateway](https://github.com/nicolaszordan/tcgapi-gateway)
 
-### Magic: The Gathering
+### Services
+
+#### [Lorcana](https://github.com/nicolaszordan/tcgapi-service-lorcana)
+
+#### [Magic: The Gathering](https://github.com/nicolaszordan/tcgapi-service-mtg)
